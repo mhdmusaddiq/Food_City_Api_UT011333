@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "FoodCity_API\\Repositories\\ProductRepository.cs",
               "ToolTip": "Z:\\C#\\Food_City_Api_UT011333\\FoodCity_API\\FoodCity_API\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "FoodCity_API\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAGYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-15T07:26:06.193Z",
               "EditorCaption": ""
@@ -63,7 +59,8 @@
               "RelativeToolTip": "FoodCity_API\\IRepositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:16:36.54Z"
+              "WhenOpened": "2026-06-15T07:16:36.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

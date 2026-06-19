@@ -93,7 +93,19 @@ namespace FoodCityProductApi.Repositories
             }
         }
 
+        public bool PatchProduct(int productId, string? productName, decimal? price, int? quantity)
+        {
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                conn.Open();
 
+                string query = @"";
+            }
+        }
 
+        //public bool IsProductNameExists(string productName)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

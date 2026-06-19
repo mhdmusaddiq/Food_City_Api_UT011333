@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodCityProductApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee22c247762db9ebd3f5f2c6a155b586d343e6f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7efa3b01a4a666f63984f0b65d84553c3d2633ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodCityProductApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodCityProductApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
